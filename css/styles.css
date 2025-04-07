@@ -671,7 +671,12 @@ margin-bottom: 16px;
 }
 
 .modal-field {
-    margin-bottom: 8px;
+    margin-bottom: 16px;
+}
+
+.modal-field-checkbox {
+    display: inline-flex;
+    margin-bottom: 24px; 
 }
 
 .modal-label {
@@ -845,6 +850,6 @@ margin-bottom: 16px;
 }
 
 .modal-btn:hover,
-.modal-bt:focus {
+.modal-btn:focus {
     background-color: #404bbf;
 }
