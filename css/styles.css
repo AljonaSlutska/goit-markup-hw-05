@@ -607,7 +607,7 @@ margin-bottom: 16px;
     pointer-events: auto;
 }
 
-.modal {
+.modal_ {
     position: absolute;
     top: 50%;
     left: 50%;
