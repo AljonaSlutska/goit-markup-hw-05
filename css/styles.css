@@ -667,7 +667,7 @@ margin-bottom: 16px;
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42; 
-    margin-bottom: 16px;
+    margin-bottom: 24px;
 }
 
 .modal-field {
@@ -715,8 +715,12 @@ margin-bottom: 16px;
 
 .modal-input-wrap {
     position: relative;
-    margin-bottom: 16px;
 }
+
+.modal-field:not(:last-of-type) .modal-input-wrap {
+    margin-bottom: 8px;
+}
+
 
 .modal-input:focus + .modal-icon {
     fill: #4d5ae5; 
@@ -807,7 +811,7 @@ margin-bottom: 16px;
     line-height: 1.17;
     letter-spacing: 0.04em;
     color: #8e8f99;
-    display: flex;
+    display: inline-flex;
     align-items: center;
     position: relative;
     margin-bottom: 24px;
