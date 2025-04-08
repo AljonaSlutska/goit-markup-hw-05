@@ -679,7 +679,7 @@ margin-bottom: 16px;
 }
 
 .modal-field:last-of-type {
-    margin-bottom: 16px;
+    margin-bottom: 24px;
 }
 
 .modal-field-checkbox {
@@ -722,6 +722,7 @@ margin-bottom: 16px;
 
 .modal-input-wrap {
     position: relative;
+    margin-bottom: 16px;
 }
 
 .modal-field:not(:last-of-type) .modal-input-wrap {
