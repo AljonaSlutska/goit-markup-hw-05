@@ -667,7 +667,7 @@ margin-bottom: 16px;
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42; 
-    margin-bottom: 24px;
+    margin-bottom: 16px;
 }
 
 .modal-field {
@@ -679,7 +679,7 @@ margin-bottom: 16px;
 }
 
 .modal-field:last-of-type {
-    margin-bottom: 24px;
+    margin-bottom: 16px;
 }
 
 .modal-field-checkbox {
